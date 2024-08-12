@@ -1,0 +1,11 @@
+{
+  "name": "dsa_javascript",
+  "version": "1.0.0",
+  "description": "\"a npm package that helps to implement the data structure in javascript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanshu Tiwari",
+  "license": "ISC"
+}
